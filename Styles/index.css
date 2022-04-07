@@ -58,7 +58,7 @@ li a {
 li a:hover {
   background-color: #111;
 }
-
+/*END OF HEADER*/
 .main {
   display: flex;
   flex-direction: column;
